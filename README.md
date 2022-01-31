@@ -14,3 +14,12 @@ Double click `ants_gui.exe` to directly start the game.
 
 ### Option 2:
 Clone the repository and run command `python3 ants_gui.py` or `python ants_gui.py` to start the game.
+
+## Screenshots
+Initial game state
+![Initial game state](./img/initial-game-state.png)
+
+Game play
+![Game play](./img/game-play1.png)
+
+![Game play](./img/game-play2.png)
